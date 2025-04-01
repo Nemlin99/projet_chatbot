@@ -1,0 +1,11 @@
+streamlit
+ollama
+langchain
+langchain_ollama
+pymongo
+faiss-gpu
+pypdf
+unstructured
+langchain_mongodb
+langchain_community
+markdownify

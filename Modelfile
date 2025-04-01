@@ -1,0 +1,5 @@
+FROM llama3
+PARAMETER temperature 0.7
+PARAMETER top_p 0.9
+SYSTEM "Tu es un assistant spécialisé elasticsearch"
+ADAPTER dataset_llama3.json
