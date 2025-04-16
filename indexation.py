@@ -9,7 +9,7 @@ from langchain.memory import ConversationBufferMemory
 from langchain.chat_models import ChatOllama
 
 # les dossiers et la creation d 'un index
-DOCS_FOLDER = "C:/eslas" 
+DOCS_FOLDER = "C:\doc_juridique"
 FAISS_PATH = "faiss_index"
 
 #j'utilise nomic-embed-text de ollama pour l'indexation 
